@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008718312384",
+    "project_id": "kalos-image",
+    "storage_bucket": "kalos-image.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008718312384:android:8c457d1b16455175a84e25",
+        "android_client_info": {
+          "package_name": "br.senai.sp.jandira.saf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD6EkVBBYxBwGQzKH_T7LX52vgH6lByMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
